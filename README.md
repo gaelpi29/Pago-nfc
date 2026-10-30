@@ -121,7 +121,7 @@ Ventana que muestra datos para realizar transferencias
         >
 
         <!-- NOMBRE DEL NEGOCIO -->
-        <h1>Mi Negocio</h1>
+        <h1>FLORERIA</h1>
 
         <div class="subtitle">
             Datos para transferencia
@@ -131,7 +131,7 @@ Ventana que muestra datos para realizar transferencias
         <!-- BANCO -->
         <div class="data">
             <div class="label">Banco</div>
-            <div class="value">BBVA</div>
+            <div class="value">NU</div>
         </div>
 
 
@@ -139,7 +139,7 @@ Ventana que muestra datos para realizar transferencias
         <div class="data">
             <div class="label">Titular</div>
             <div class="value">
-                Juan Pérez López
+                KARLA XIMENA CANALES
             </div>
         </div>
 
@@ -149,7 +149,7 @@ Ventana que muestra datos para realizar transferencias
             <div class="label">CLABE interbancaria</div>
 
             <div class="value" id="clabe">
-                012345678901234567
+                5101254721364099
             </div>
 
             <button onclick="copiar('clabe')">
@@ -165,7 +165,7 @@ Ventana que muestra datos para realizar transferencias
             <div class="label">Número de cuenta</div>
 
             <div class="value" id="cuenta">
-                0123456789
+                
             </div>
 
             <button onclick="copiar('cuenta')">
@@ -179,7 +179,7 @@ Ventana que muestra datos para realizar transferencias
         <!-- WHATSAPP -->
         <button
             class="whatsapp"
-            onclick="window.open('https://wa.me/5215512345678', '_blank')"
+            onclick="window.open('https://wa.me/+52 55 6368 0395', '_blank')"
         >
             CONTACTAR POR WHATSAPP
         </button>
