@@ -149,7 +149,7 @@ Ventana que muestra datos para realizar transferencias
             <div class="label">CLABE interbancaria</div>
 
             <div class="value" id="clabe">
-                5101254721364099
+                638180010083661447
             </div>
 
             <button onclick="copiar('clabe')">
